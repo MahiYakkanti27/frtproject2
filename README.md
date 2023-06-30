@@ -7,7 +7,9 @@ PROJECT LINK: "https://orange-forest-002961810.3.azurestaticapps.net"
 PROJECT DEMO LINK: "https://youtu.be/JviQZsiJ6Sg"
 
 →AZURE TECHNOLOGIES USED FOR THIS WEBSITE:
+
 1.Static web apps
+
 2.Heath bot
 
 ## Features and Functionalities 😎
@@ -57,12 +59,17 @@ PROJECT DEMO LINK: "https://youtu.be/JviQZsiJ6Sg"
 ##TECHNOLOGIES USED 🧑‍💼
 
 -AZURE HEALTH BOT
+
 -STATIC WEBAPPS
+
 -HTML
+
 -CSS
+
 -JAVASCRIPT
 
 ##COLLABORATES
+
 1.Y.Mahendra Reddy      -  MahiYakkanti27
 
 2.S.Viraj               -  Viraj5464
