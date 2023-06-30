@@ -63,8 +63,11 @@ PROJECT DEMO LINK: "https://youtu.be/JviQZsiJ6Sg"
 -JAVASCRIPT
 
 ##COLLABORATES
-Y.Mahendra Reddy      -  MahiYakkanti27
-S.Viraj               -  Viraj5464
-M.Sai Pranjal         -  Maddilapranjal
-R.S.G.Gayathri Sowmya -  Rameswarapu
+1.Y.Mahendra Reddy      -  MahiYakkanti27
+
+2.S.Viraj               -  Viraj5464
+
+3.M.Sai Pranjal         -  Maddilapranjal
+
+4.R.S.G.Gayathri Sowmya -  Rameswarapu
 
